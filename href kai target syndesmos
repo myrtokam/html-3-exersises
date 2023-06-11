@@ -1,0 +1,6 @@
+  <a href="https://github.com/myrtokam/html-3-exersises/tree/main">gidhub</a>
+  
+  target blank
+            <a href="https://github.com/myrtokam/html-3-exersises/tree/main"target="blank">targetn github</a>
+ target self 
+            <a href="https://github.com/myrtokam/html-3-exersises/tree/main" target_self>target gidhub</a>
